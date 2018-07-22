@@ -1,0 +1,28 @@
+/* add your CSS here */
+.card {
+    width: 330px;
+    border: 1px solid gainsboro;
+    padding-bottom: 15px;
+    box-shadow: 5px 5px #f3f3f3;
+}
+h3 {
+    margin: 15px;
+}
+.picture {
+    margin: auto;
+    width: 300px;
+    height: 200px;
+    display: block;
+    padding-bottom: 15px;
+}
+.information{
+    width: 280px;
+    border: 1px solid gainsboro;
+    margin: auto;
+    padding-left:10px;
+    padding-right:10px;
+}
+.list {
+    list-style-type: none;
+    padding-left: 0;
+}

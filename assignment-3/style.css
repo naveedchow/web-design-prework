@@ -1,0 +1,40 @@
+/* add your CSS here */
+body {
+    width: 100%;
+}
+div {
+    margin: auto;
+    margin-top: 500px;
+    width: 1000px;
+    text-align: center;
+}
+span {
+    margin: 0;
+}
+.blue {
+    color: #4285F4;
+}
+.red {
+    color: #EA4335;
+}
+.yellow {
+    color: #FBBC05;
+}
+.green {
+    color: #34A853;
+}
+.input-form{
+    width: 400px;
+    padding: 8px;
+}
+.button{
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.button a {
+    color: black;
+}
+.decoration{
+    text-decoration: none;
+}
